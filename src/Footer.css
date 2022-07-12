@@ -1,0 +1,28 @@
+.Footer_main_div{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+}
+.font_size_footer{
+    font-size: 24px;
+    margin-left: 36px;
+}
+.hr_line{
+    border-top: 1px solid red;
+}
+.footer_sub_div{
+    width: 70%;
+       display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: space-between;
+}
+.data_footer_sub_data{
+    margin: 14px;
+}
+.Imgesss{
+    width: 112px;
+    margin-left: 15px;
+}

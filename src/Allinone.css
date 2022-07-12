@@ -1,0 +1,13 @@
+.Course_cls{
+    border-style: groove;
+    width: 247px;
+    height: 30px;
+    text-align: center;
+    
+}
+.display_flex{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 10px;
+}

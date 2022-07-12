@@ -1,0 +1,33 @@
+.Header_two_main{
+    display: flex;
+   justify-content: space-around;
+}
+.sub_div{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color: white;
+    line-height: 40px;
+   
+}
+.Sub_main_div{
+    display: flex;
+    text-align: center;
+}
+.Dev_div:hover{
+ 
+}
+.offer_text{
+    position: absolute;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
+    padding: 2.4rem;
+    left: 7.2rem;
+    top: 11.4rem;
+    max-width: 19rem;
+}
+.sub_divs{
+    width: 100%;
+    height: 40px;
+   
+    line-height: 40px;
+}

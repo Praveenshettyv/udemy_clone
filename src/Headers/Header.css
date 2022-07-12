@@ -1,0 +1,130 @@
+.Header_main_div{
+    height: 72px;
+    width: 100%;
+}
+.Udemylogo{
+    width: 100px;
+    height: auto;
+}
+.Search_bar{
+    width: 28%;
+    vertical-align: middle;
+    border-radius: 50px;
+    margin: 1%;
+    height: 45px;
+    border-style: ridge;
+}
+.one_line_css{
+    display: flex;
+     text-align:  center;
+     margin: 1%;
+}
+.logo{
+    width: 40px;
+    height: 20px;
+    margin: 2%;
+}
+.vertical_middle{
+    margin: 2%;
+}
+.one_line_cssss{
+    margin: 2%;
+    display: flex;
+}
+.Search_img{
+    width: 15px;
+    margin-top: 10px;
+    margin-left: -45%;
+}
+.Inputsearch{
+    border: none;
+    outline: none;
+}
+::placeholder { 
+    font-size: larger;
+  }
+  .User_profile{
+    color: white;
+    border-radius: 67%;
+    margin-top: inherit;
+    width: 40px;
+    background-color: black;
+    height: 40px;
+    line-height: 40px;
+    font-family: fantasy;
+  }
+  .Categorie_sub_div{
+    display: flex;
+    /* flex-direction: column;
+    flex-wrap: nowrap; */
+   
+  }
+  .Categorie_sub_divsss{
+    border-style: solid;
+    width: 172px;
+    /* text-align: center; */
+    z-index: 1;
+    top: 60px;
+    left: 128px;
+    background-color: white;
+    position: absolute;
+  }
+  .Categories_cls{
+    position: relative;
+  }
+  .left{
+    float: left;
+  }
+  .right{
+    float: right;
+  }
+  .Business_sub_div{
+    border-style: solid;
+    width: 249px;
+    height: 160px;
+    top: 71px;
+    left: 529px;
+    background-color: white;
+    position: absolute;
+    font-weight: 700;
+    letter-spacing: -.02rem;
+    font-size: 22px;
+    text-align: center;
+  }
+  .Business_sub_div button{
+    text-align: center;
+    width: 80%;
+    height: auto;
+    color: white;
+    background-color: black;
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .users_sub_div{
+    border-style: solid;
+    width: 249px;
+    height: 500px;
+    top: 71px;
+    left: 1000px;
+    background-color: white;
+    position: absolute;
+    /* font-weight: 700;
+    letter-spacing: -.02rem;
+    font-size: 22px; */
+    text-align: center;
+  }
+  .user_cls{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+  }
+  .User_profilesss{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    color: white;
+    line-height: 50px;
+    background-color: black;
+  }
