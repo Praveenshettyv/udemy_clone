@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.162c4799.css",
+    "main.js": "/static/js/main.1f2a275a.js",
+    "static/media/background.jpg": "/static/media/background.b7225ab39be08db87639.jpg",
+    "static/media/Cart.png": "/static/media/Cart.4a2a3c707c197d05e15a.png",
+    "static/media/Search.png": "/static/media/Search.4a1da4a5d062db80184f.png",
+    "static/media/eventbrite_light.svg": "/static/media/eventbrite_light.2a889053d0b37427db6291c87d5b0431.svg",
+    "static/media/nasdaq_light.svg": "/static/media/nasdaq_light.ee2c456c43ec53a8d5189591ce883e19.svg",
+    "static/media/netapp_light.svg": "/static/media/netapp_light.2c852f49b3dacd941a8b48847dfc5842.svg",
+    "static/media/logo-udemy-inverted.svg": "/static/media/logo-udemy-inverted.bc61c6989dd94540b76689ec30e1b7f5.svg",
+    "static/media/volkswagen_light.svg": "/static/media/volkswagen_light.65245516321f31cf328b8ab42689d3e1.svg",
+    "static/media/logoudemy.svg": "/static/media/logoudemy.ac64b9eb547dc3795f53173b290203d9.svg",
+    "static/media/box_light.svg": "/static/media/box_light.3bf6bb164f7c0b3c9b92f01428ef19bd.svg",
+    "static/media/bell_regular.svg": "/static/media/bell_regular.8b0c94ae0b7983b0909aa2cf409a6f26.svg",
+    "static/media/heart_regular.svg": "/static/media/heart_regular.6d06655ea6c752bd88512e51340ec81c.svg",
+    "index.html": "/index.html",
+    "main.162c4799.css.map": "/static/css/main.162c4799.css.map",
+    "main.1f2a275a.js.map": "/static/js/main.1f2a275a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.162c4799.css",
+    "static/js/main.1f2a275a.js"
+  ]
+}
